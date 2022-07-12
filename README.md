@@ -1,4 +1,4 @@
-# Object-Detection-Masl-R-CNN-video-
+# Object-Detection-Mask-R-CNN-video-
 Object detection from a video/real time using mask-r-cnn 
 
 Object Detection from a video/real time using Mask-R-CNN
